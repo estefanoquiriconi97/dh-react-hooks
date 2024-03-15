@@ -1,9 +1,9 @@
-import { ListadoDeCompras } from './components/ListadoDeCompras'
+import { RickMorty } from './components/RickMorty'
 
 function App() {
   return (
     <>
-      <ListadoDeCompras />
+      <RickMorty />
     </>
   )
 }
